@@ -1,0 +1,25 @@
+Alvin Jorkey
+I have neither given nor received unauthorized aid on this program
+
+
+
+
+
+1. One persist bug that I encountered was a nullPointerException that
+was the result of me trying to access elements of the roads ArrayList
+before they were created. I overcame this by using a boolean hasRoads
+function in my addRoad function. I learned that looking through the
+text file is helpful in debugging.
+
+2. I only received help from professor Kirlin, prior knowledge, google searches and this site
+https://progressivecoder.com/graph-implementation-in-java-using-hashmap/
+
+3. The most serious problem I encountered was trying to get my output to display correctly.
+This required me to do some review of OOP concepts to finally get it correct.
+
+4. There were no challenges.
+
+5. I think this was a medium level project that I enjoyed. It got me reacquainted with Java and
+helped me to brush up on my graph implementation skills.
+
+
